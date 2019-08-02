@@ -3,7 +3,7 @@ module.exports = {
     // 'virtual',
     // 'keyboard',
     // 'mousewheel',
-    // 'navigation',
+    'navigation',
     'pagination',
     // 'scrollbar',
     // 'parallax',
